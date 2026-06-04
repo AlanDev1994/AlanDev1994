@@ -15,7 +15,7 @@
 - Modelagem relacional (MySQL)  
 - Queries otimizadas para relatórios  
 
-🔹 **Front-end **
+🔹 **Front-end**
 - Interfaces Utilizando Vue.js
 - Integração com APIs externas  
 
