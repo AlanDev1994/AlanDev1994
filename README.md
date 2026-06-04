@@ -9,7 +9,6 @@
 
 🔹 **Back-end / APIs**
 - Desenvolvimento de APIs REST em Java Utilizando Spring Boot  
-- Tratamento de falhas e estratégias de retry
 
 🔹 **Banco de dados & dados operacionais**
 - Modelagem relacional (MySQL)  
